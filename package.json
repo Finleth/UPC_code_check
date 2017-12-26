@@ -2,7 +2,7 @@
   "name": "upc_code_check",
   "version": "1.0.0",
   "description": "upd code number checker",
-  "main": "index.js",
+  "main": "./client/src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
